@@ -37,6 +37,6 @@ A containerized monitoring dashboard showing Docker container health, host metri
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/britideepa/)
 
 Open to DevOps, Cloud, and Platform Engineering opportunities in Germany.
